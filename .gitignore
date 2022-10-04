@@ -1,0 +1,4 @@
+*.make
+*.date
+*.log
+*.exe
